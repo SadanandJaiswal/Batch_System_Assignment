@@ -5,16 +5,16 @@ import { MdPlayArrow } from 'react-icons/md';
 
 const Hero = () => {
   return (
-    <section className="flex min-h-screen px-[7%]">
-      <div className="relative w-1/2">
+    <div className="flex min-h-screen px-[7%]  pb-6">
+      <div className=" pr-5 relative w-[60%] mb-6">
         <div className='pl-[5%] pt-24'>
-          <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold  text-black mb-3">
+          <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold  text-black mb-3">
             Make The Best Financial Decisions
           </h1>
-          <p className="text-gray-400 mb-4">
+          <p className="text-gray-400 my-6">
             Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.
           </p>
-          <div className='flex'>
+          <div className='flex mt-8'>
             <button className="flex items-center px-4 py-3 bg-black text-white font-bold rounded shadow-lg">
               Get Started 
               <FaArrowRight className="ml-2" />
@@ -31,7 +31,7 @@ const Hero = () => {
             />
           </div>
         </div>
-        <div className='w-[90%]'>
+        <div className='w-[80%] mt-5'>
           <img
             src="/assets/hero_zigzag.png" 
             alt="logo"
@@ -40,14 +40,14 @@ const Hero = () => {
         </div>
         
       </div>
-      <div className="w-1/2">
+      <div className=" w-[40%]  ">
         <img
           src="/assets/hero_3iphone.png"
           alt="logo"
-          className="object-contain"
+          className="transform scale-[140%] ml-[10%] mt-[15%]"
         />
       </div>
-    </section>
+    </div>
   );
 };
 
