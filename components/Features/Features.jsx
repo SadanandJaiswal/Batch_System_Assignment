@@ -31,7 +31,9 @@ const Features = () => {
         </h1>
         {data.map((item,index)=>{
           return(
-            <FeatureListElm key={index} heading={item.heading} desc={item.description} icon={item.icon}/>
+            <div className="" key={index*123}>
+              <FeatureListElm key={index} heading={item.heading} desc={item.description} icon={item.icon} />
+            </div>
           )
         })}
 

@@ -33,7 +33,7 @@ const FaqItemList = ({min,max}) =>{
           {data.map((item,index)=>{
             if(index>=min && index<max){
               return(
-                <div className={`${index%2===0? 'bg-red-500 text-white' : ''} rounded  p-6 pt-5`}>
+                <div className={`${index%2===0? 'bg-red-500 text-white' : ''} rounded  p-6 pt-5`} key={index*3}>
                   <h1 class="text-2xl font-bold mb-1">
                     {item.heading}
                   </h1>

@@ -39,7 +39,7 @@ const Footer = () => {
               <div className="flex flex-col">
                 {item.links.map((link, index) => {
                   return (
-                    <p className="mb-2" key={index}>
+                    <p className="mb-2" key={index*2}>
                       {link}
                     </p>
                   );
