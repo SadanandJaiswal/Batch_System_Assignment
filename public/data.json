@@ -1,0 +1,62 @@
+{
+  "advantages": [
+    {
+      "heading": "Clever Notifications",
+      "description": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+      "icon": "bell.png"
+    },
+    {
+      "heading": "Fully Customizable",
+      "description": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+      "icon": "bell.png"
+    }
+  ],
+  "FAQ": [
+    {
+      "heading": "The Best Financial Accounting App Ever!",
+      "desc": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.\""
+    },
+    {
+      "heading": "The Best Financial Accounting App Ever!",
+      "desc": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.\""
+    },
+    {
+      "heading": "The Best Financial Accounting App Ever!",
+      "desc": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.\""
+    },
+    {
+      "heading": "The Best Financial Accounting App Ever!",
+      "desc": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.\""
+    },
+    {
+      "heading": "The Best Financial Accounting App Ever!",
+      "desc": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.\""
+    },
+    {
+      "heading": "The Best Financial Accounting App Ever!",
+      "desc": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.\""
+    }
+  ],
+  "features": [
+    {
+      "heading": "Budgetting Intervals",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "star.svg"
+    },
+    {
+      "heading": "Budgetting Intervals",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "hexagon.svg"
+    },
+    {
+      "heading": "Budgetting Intervals",
+      "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+      "icon": "rectangle.svg"
+    }
+  ],
+  "testimonial": {
+    "ques": "The Best Financial Accounting App Ever?",
+    "ans": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+    "name": "Nick Jones"
+  }
+}

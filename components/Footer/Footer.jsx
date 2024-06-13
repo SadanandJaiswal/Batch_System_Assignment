@@ -39,7 +39,7 @@ const Footer = () => {
               <div className="flex flex-col">
                 {item.links.map((link, index) => {
                   return (
-                    <p className="mb-2" key={index*2}>
+                    <p className="mb-2" key={index * 2}>
                       {link}
                     </p>
                   );
@@ -51,21 +51,23 @@ const Footer = () => {
 
         <div className="flex flex-col">
           <h1 className="text-2xl font-bold mb-4">Newsletter</h1>
-                <p className="mb-2">
-                  Stay Up To Date
-                </p>
-                <div className='flex'>
-                  <input type="text" className="border p-2 " placeholder="Your Email" />
-                  {/* <button className="flex items-center px-4 py-3 bg-black text-white font-bold rounded shadow-lg">
+          <p className="mb-2">Stay Up To Date</p>
+          <div className="flex">
+            <input
+              type="text"
+              className="border p-2 "
+              placeholder="Your Email"
+            />
+            {/* <button className="flex items-center px-4 py-3 bg-black text-white font-bold rounded shadow-lg">
                     Get Started 
                   </button> */}
-                  <button className="flex items-center px-4 py-3 font-bold rounded bg-black text-white">
-                    Watch Video
-                  </button>
-                </div>
+            <button className="flex items-center px-4 py-3 font-bold rounded bg-black text-white">
+              Watch Video
+            </button>
+          </div>
         </div>
       </div>
-      <hr className="h-1"/>
+      <hr className="h-1" />
       <div className="flex justify-center items-center py-5">
         Copyright2022 Uifry.Com All Rights Reserved
       </div>

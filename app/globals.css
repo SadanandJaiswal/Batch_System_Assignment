@@ -43,7 +43,7 @@
 
 .hoverNav{
   border-bottom: 0px solid;
-  transition: all 0.1s ease;
+  transition: all 0.2s ease;
   /* padding-bottom: 4px; */
 }
 
@@ -55,10 +55,3 @@
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
-.border-blue{
-  border: 2px solid blue;
-}
-
-.border-red{
-  border: 2px solid red;
-}

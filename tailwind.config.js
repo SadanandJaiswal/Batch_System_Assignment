@@ -7,9 +7,12 @@ module.exports = {
   ],
   theme: {
     extend: {
-      color: {
-        'my-red': 'FF5555',
-      }
+      colors: {
+        'my-red': '#FF5555', // Correcting the color definition
+      },
+      fontFamily: {
+        clash: ['"Clash Display"', 'sans-serif'],
+      },
     },
   },
   plugins: [],
